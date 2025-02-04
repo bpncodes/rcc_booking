@@ -1,5 +1,17 @@
 source "https://rubygems.org"
 
+# Active admin
+gem 'activeadmin'
+
+# Plus integrations with:
+gem 'devise'
+# gem 'cancancan'
+# gem 'draper'
+gem 'pundit'
+gem 'sassc-rails'
+
+gem 'annotate', '2.6'
+
 gem "nokogiri", "1.14"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.2.2", ">= 7.2.2.1"
