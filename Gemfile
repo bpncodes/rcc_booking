@@ -12,7 +12,7 @@ gem 'sassc-rails'
 
 gem 'annotate', '2.6'
 
-gem "nokogiri", "1.14"
+gem "nokogiri", "1.18.2"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.2.2", ">= 7.2.2.1"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
