@@ -10,7 +10,7 @@ gem 'devise'
 gem 'pundit'
 gem 'sassc-rails'
 
-gem 'annotate', '2.6'
+gem 'annotate', '3.2.0'
 
 gem "nokogiri", "1.14"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
